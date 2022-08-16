@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+header {
+   text-align: center;
+   background-color: aqua;
+   padding: 20px 20px 40px;
+}
+
+#input-el {
+    
+    border: 5px solid black;
+    width:65px;
+    display: block;
+    margin: 20px auto 15px;
+    text-align: center;
+    border-radius:6px ;
+    
+    padding: 25px ;
+   font-size: 32px;
+    
+}
+
+.containers {
+    border: solid 5px black;
+    text-align: center;
+    margin: 30px;
+    background-color: purple;
+    padding: 25px 30px;
+}
+
+#convert-btn {
+    padding: 10px 25px;
+    border-radius: 6px;
+}
